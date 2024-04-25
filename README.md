@@ -9,7 +9,7 @@
 [BrianKnows](https://www.brianknows.org/)  
 [Caddi](https://www.caddi.fi/)  
 [Portfo](https://porfo.app/)  
-[Raindex](https://docs.rainlang.xyz/raindex/download)
+[Raindex](https://docs.rainlang.xyz/raindex/download/)
 [Velvet](https://www.velvet.capital/)  
 
 
